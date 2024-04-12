@@ -83,7 +83,7 @@ def user_input(user_question):
 
 def main():
     st.set_page_config("PDF Interactor ")
-    st.header("Chat with Multiple PDF's 🚀")
+    st.header("Multiple PDF Interactor by Aakash🚀 ")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
